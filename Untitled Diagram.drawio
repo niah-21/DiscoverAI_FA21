@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T19:44:14.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.0" etag="tFqRHwxAyLr0M_WLsco0" type="github"><diagram id="bFenfDp3eLHAotA31bg-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-17T19:51:28.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QOdif8JfapnSnOzubq9Y" version="16.6.0" type="github">
+  <diagram id="bFenfDp3eLHAotA31bg-" name="Page-1">
+    <mxGraphModel dx="1902" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cVyEPbY9ZTBFI9PuwJU--1" value="Customers&lt;br&gt;&lt;br&gt;C_id&lt;br&gt;C&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-91" y="55" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVyEPbY9ZTBFI9PuwJU--2" value="Employees&lt;br&gt;employeeID&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="342" y="55" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVyEPbY9ZTBFI9PuwJU--3" value="Video Inventory&lt;br&gt;&lt;br&gt;title&lt;br&gt;director&lt;br&gt;time&lt;br&gt;gneere&lt;br&gt;pricing&lt;br&gt;type&lt;br&gt;rent date&lt;br&gt;payment&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="122" y="179" width="188" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="cVyEPbY9ZTBFI9PuwJU--5" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="151" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cVyEPbY9ZTBFI9PuwJU--6" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="336" y="191" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
